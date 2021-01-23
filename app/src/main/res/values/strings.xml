@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Machinetest</string>
+
+    <!--Profile Screen-->
+    <string name="activity_main_TXT_liked">Liked</string>
+    <string name="activity_main_TXT_videos">125 Videos</string>
+    <string name="activity_main_BTN_follow">Follow</string>
+    <string name="activity_main_TXT_total_likes">Likes</string>
+    <string name="activity_main_TXT_total_views">Views</string>
+    <string name="activity_main_TXT_following">Following</string>
+    <string name="activity_main_TXT_followers">Followers</string>
+    <string name="dialog_share_TXT_share">Share</string>
+    <string name="dialog_share_TXT_report">Report</string>
+
+    <string name="activity_main_TXT_desc">Personal Descriptions</string>
+    <string name="activity_main_TXT_desc_title">Persons biodatas</string>
+    <string name="activity_main_TXT_idname">"@"eleanor333</string>
+    <string name="activity_main_TXT_username">Eleanor Pena</string>
+
+</resources>
